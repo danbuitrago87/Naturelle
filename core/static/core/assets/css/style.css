@@ -158,11 +158,11 @@ section {
   height: 80px;
   z-index: 997;
   transition: all 0.5s;
-  background: #2d6760;
+  background: #fa926d;
 }
 
 #header.header-scrolled {
-  background: #1d443f;
+  background: #c73b26;
   height: 60px;
 }
 
@@ -185,7 +185,7 @@ section {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 60px;
 }
 
 #main {
@@ -417,7 +417,7 @@ section {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-background.jpg") top center;
+  background: url("../img/flower.jpg") top center;
   background-size: cover;
   position: relative;
   margin-bottom: -80px;
@@ -425,7 +425,7 @@ section {
 
 #hero:before {
   content: "";
-  background: rgba(112, 185, 176, 0.85);
+  background: #fcc598(112, 185, 176, 0.85);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -449,14 +449,14 @@ section {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
-  font-weight: 300;
+  font-size: 60px;
+  font-weight: 600;
   line-height: 56px;
-  color: #fff;
+  color: #731030;
 }
 
 #hero h2 {
-  color: #eee;
+  color: #731030;
   margin-bottom: 50px;
   font-size: 20px;
   font-weight: 300;
@@ -471,8 +471,8 @@ section {
   padding: 8px 28px 10px 28px;
   border-radius: 50px;
   transition: 0.5s;
-  border: 1px solid #fff;
-  color: #fff;
+  border: 1px solid #731030;
+  color:#731030;
 }
 
 #hero .btn-get-started:hover {
