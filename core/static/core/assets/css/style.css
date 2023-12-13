@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #777;
+  color: #2A363B;
 }
 
 a {
@@ -55,7 +55,7 @@ section {
   font-weight: 300;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #555;
+  color: #2A363B;
 }
 
 .section-title p {
@@ -158,11 +158,11 @@ section {
   height: 80px;
   z-index: 997;
   transition: all 0.5s;
-  background: #fa926d;
+  background: #FF847C;/*#99B898;#FECEAB;#FF847C;#E84A5F;#2A363B*/
 }
 
 #header.header-scrolled {
-  background: #c73b26;
+  background: #E84A5F;
   height: 60px;
 }
 
@@ -520,7 +520,7 @@ section {
 .about ul i {
   font-size: 22px;
   padding-right: 4px;
-  color: #70b9b0;
+  color: #99B898;
   line-height: 0;
 }
 
