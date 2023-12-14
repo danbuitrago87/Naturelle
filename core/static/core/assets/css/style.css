@@ -817,7 +817,7 @@ section {
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #E84A5F;
+  color: #731030;
 }
 
 .faq .faq-list .collapsed .icon-show {
@@ -870,12 +870,12 @@ section {
 }
 
 .team .member .social a {
-  color: #92cac3;
+  color: #FECEA8;
   transition: 0.3s;
 }
 
 .team .member .social a:hover {
-  color: #3c8b81;
+  color: #E84A5F;
 }
 
 .team .member .social i {
