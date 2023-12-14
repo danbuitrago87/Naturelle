@@ -628,7 +628,7 @@ section {
   padding: 10px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #777;
+  color: #2A363B;
   border-radius: 4px;
   text-transform: uppercase;
   background: white;
@@ -638,7 +638,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #70b9b0;
+  background: #E84A5F;
   color: #fff;
 }
 
