@@ -42,7 +42,8 @@ section {
 }
 
 .section-bg {
-  background-color: #f2f9f8;
+  /*background-color: #FF847C;*/
+  background: linear-gradient(90deg, rgba(232,74,95,1) 7%, rgba(1,41,42,0) 20%);
 }
 
 .section-title {
@@ -777,7 +778,7 @@ section {
 }
 
 .faq .faq-list li {
-  border-bottom: 1px solid #deefed;
+  border-bottom: 1px solid #731030;
   margin-bottom: 20px;
   padding-bottom: 20px;
 }
@@ -791,7 +792,7 @@ section {
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #51a59b;
+  color: #2A363B;
   transition: 0.3s;
 }
 
@@ -816,7 +817,7 @@ section {
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #70b9b0;
+  color: #E84A5F;
 }
 
 .faq .faq-list .collapsed .icon-show {
