@@ -222,8 +222,8 @@ section {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-family: "Open Sans", sans-serif;
-  font-size: 14px;
-  color: #d2ece9;
+  font-size: 18px;
+  color: #731030;
   white-space: nowrap;
   transition: 0.3s;
 }
