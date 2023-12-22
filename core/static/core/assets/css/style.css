@@ -337,7 +337,7 @@ section {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(7, 56, 57, 0.9);
+  background: #FF847C;
   transition: 0.3s;
 }
 
@@ -370,7 +370,7 @@ section {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #70b9b0;
+  color: #731030;
 }
 
 .navbar-mobile .getstarted,
